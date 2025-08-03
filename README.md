@@ -2,7 +2,7 @@
 
 ## Overview
 
-This report analyzes sales, customer behavior, product performance, and regional trends for a Superstore between 2014 and 2018. Data visualizations and insights are derived from Power BI dashboards based on a transactional dataset.
+This report analyzes sales, customer behavior, product performance, and regional trends for a Superstore between. Data visualizations and insights are derived from Power BI dashboards based on a transactional dataset.
 
 ## Key Performance Indicators (KPIs)
 
@@ -17,7 +17,6 @@ This report analyzes sales, customer behavior, product performance, and regional
 ## Sales Trend Summary
 
 - Sales increased annually until 2017.
-- Recommendation: Investigate 2018 decline across pricing, inventory, and customer feedback.
 
 ## Regional Performance
 
@@ -61,6 +60,6 @@ This report analyzes sales, customer behavior, product performance, and regional
 
 ## Conclusion
 
-The Superstore has a robust customer base and product portfolio, particularly strong in the West and among Consumers. There are notable opportunities for growth in underperforming regions and categories. Strategic focus should be placed on reviving 2018 performance, improving weekend engagement, and optimizing shipping operations.
+The Superstore has a robust customer base and product portfolio, particularly strong in the West and among Consumers. There are notable opportunities for growth in underperforming regions and categories. Strategic focus should be placed on improving weekend engagement, and optimizing shipping operations.
 
 ---
