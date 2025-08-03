@@ -1,4 +1,4 @@
-# README: Superstore Sales Analysis Report (2014–2018)
+Superstore Sales Analysis Report
 
 ## Overview
 
@@ -64,4 +64,3 @@ This report analyzes sales, customer behavior, product performance, and regional
 The Superstore has a robust customer base and product portfolio, particularly strong in the West and among Consumers. There are notable opportunities for growth in underperforming regions and categories. Strategic focus should be placed on reviving 2018 performance, improving weekend engagement, and optimizing shipping operations.
 
 ---
-
