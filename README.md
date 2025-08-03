@@ -2,7 +2,7 @@
 
 ## Overview
 
-This report analyzes sales, customer behavior, product performance, and regional trends for a Superstore between. Data visualizations and insights are derived from Power BI dashboards based on a transactional dataset.
+This report analyzes sales, customer behaviour, product performance for a Superstore. Data visualizations and insights are derived from Power BI dashboards based on a transactional dataset.
 
 ## Key Performance Indicators (KPIs)
 
